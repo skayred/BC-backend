@@ -1,0 +1,5 @@
+{
+    "001 - Admin": "BC_ADMIN",
+    "002 - Clinical personnel": "BC_CLINICAL",
+    "003 - Warehouse personnel": "BC_WAREHOUSE"
+}
